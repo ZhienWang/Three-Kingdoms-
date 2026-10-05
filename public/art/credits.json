@@ -1,0 +1,402 @@
+{
+ "hero:liubei": {
+  "file": "Three Heroes of the State of Shu - Liu Bei (Sono ichi Ryū Bi) (CBL J 2073).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Three_Heroes_of_the_State_of_Shu_-_Liu_Bei_(Sono_ichi_Ry%C5%AB_Bi)_(CBL_J_2073).jpg",
+  "width": 5214,
+  "height": 5896,
+  "license": "Public domain",
+  "artist": "Yashima Gakutei",
+  "date": "circa 1824date QS:P571,+1824-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "hero:guanyu": {
+  "file": "Three Heroes of the State of Shu - Guan Yu (Sono ni Kan U) (CBL J 2072).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Three_Heroes_of_the_State_of_Shu_-_Guan_Yu_(Sono_ni_Kan_U)_(CBL_J_2072).jpg",
+  "width": 5166,
+  "height": 5976,
+  "license": "Public domain",
+  "artist": "Yashima Gakutei",
+  "date": "circa 1824date QS:P571,+1824-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "hero:zhangfei": {
+  "file": "Three Heroes of the State of Shu - Zhang Fei (Sono san Chōhi) (CBL J 2071).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Three_Heroes_of_the_State_of_Shu_-_Zhang_Fei_(Sono_san_Ch%C5%8Dhi)_(CBL_J_2071).jpg",
+  "width": 5251,
+  "height": 5916,
+  "license": "Public domain",
+  "artist": "Yashima Gakutei",
+  "date": "circa 1824date QS:P571,+1824-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "hero:zhugeliang": {
+  "file": "Zhuge Liang by Zhang Feng.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Zhuge_Liang_by_Zhang_Feng.jpg",
+  "width": 1696,
+  "height": 3542,
+  "license": "Public domain",
+  "artist": "Zhang Feng",
+  "date": "1654date QS:P571,+1654-00-00T00:00:00Z/9",
+  "upscaled": false
+ },
+ "hero:zhaoyun": {
+  "file": "Tsuzoku sangokushi eiyu no ichinin 通俗三国志英雄上壹人 (Heroes of the Popular History of the Three Kingdoms) (BM 2008,3037.05403).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_sangokushi_eiyu_no_ichinin_%E9%80%9A%E4%BF%97%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E9%9B%84%E4%B8%8A%E5%A3%B9%E4%BA%BA_(Heroes_of_the_Popular_History_of_the_Three_Kingdoms)_(BM_2008,3037.05403).jpg",
+  "width": 1069,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "circa 1836date QS:P571,+1836-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "hero:machao": {
+  "file": "Tsuzoku sangokushi eiyu no ichinin 通俗三国志英雄上壹人 (Heroes of the Popular History of the Three Kingdoms) (BM 2008,3037.05402).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_sangokushi_eiyu_no_ichinin_%E9%80%9A%E4%BF%97%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E9%9B%84%E4%B8%8A%E5%A3%B9%E4%BA%BA_(Heroes_of_the_Popular_History_of_the_Three_Kingdoms)_(BM_2008,3037.05402).jpg",
+  "width": 1113,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "circa 1836date QS:P571,+1836-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "hero:caocao": {
+  "file": "Levé de lune sur le Mont Nanping.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lev%C3%A9_de_lune_sur_le_Mont_Nanping.jpg",
+  "width": 1102,
+  "height": 1587,
+  "license": "Public domain",
+  "artist": "Yoshitoshi",
+  "date": "1885date QS:P571,+1885-00-00T00:00:00Z/9",
+  "upscaled": false
+ },
+ "hero:simayi": {
+  "file": "Sima Yi (Jin Xuandi).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sima_Yi_(Jin_Xuandi).jpg",
+  "width": 1493,
+  "height": 1628,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "Qing dynasty",
+  "upscaled": false
+ },
+ "hero:xiahoudun": {
+  "file": "無款 清末 京劇一百人物像 冊 絹本-One hundred portraits of Peking opera characters MET DP280121.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%E7%84%A1%E6%AC%BE_%E6%B8%85%E6%9C%AB_%E4%BA%AC%E5%8A%87%E4%B8%80%E7%99%BE%E4%BA%BA%E7%89%A9%E5%83%8F_%E5%86%8A_%E7%B5%B9%E6%9C%AC-One_hundred_portraits_of_Peking_opera_characters_MET_DP280121.jpg",
+  "width": 3120,
+  "height": 3867,
+  "license": "CC0",
+  "artist": "Unidentified Artist",
+  "date": "late 19th–early 20th century",
+  "upscaled": false
+ },
+ "hero:zhangliao": {
+  "file": "Zhang Liao Portrait.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Zhang_Liao_Portrait.jpg",
+  "width": 425,
+  "height": 592,
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "upscaled": true
+ },
+ "hero:sunquan": {
+  "file": "Portraits of Famous Men - Sun Quan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Sun_Quan.jpg",
+  "width": 2604,
+  "height": 3888,
+  "license": "Public domain",
+  "artist": "Unknown Chinese artist",
+  "date": "19th - early 20th century",
+  "upscaled": false
+ },
+ "hero:zhouyu": {
+  "file": "ZhouYu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:ZhouYu.jpg",
+  "width": 362,
+  "height": 675,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "Qing Dynasty",
+  "upscaled": true
+ },
+ "hero:huanggai": {
+  "file": "HuangGai.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:HuangGai.jpg",
+  "width": 304,
+  "height": 643,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "Qing Dynasty",
+  "upscaled": true
+ },
+ "hero:lubu": {
+  "file": "Tsuzoku sangokushi eiyu no ichinin 通俗三国志英雄上壹人 (Heroes of the Popular History of the Three Kingdoms) (BM 2008,3037.05405).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_sangokushi_eiyu_no_ichinin_%E9%80%9A%E4%BF%97%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E9%9B%84%E4%B8%8A%E5%A3%B9%E4%BA%BA_(Heroes_of_the_Popular_History_of_the_Three_Kingdoms)_(BM_2008,3037.05405).jpg",
+  "width": 1117,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "circa 1836date QS:P571,+1836-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "hero:diaochan": {
+  "file": "古今百美圖之貂蟬（One hundred beauties Diaochan）.png",
+  "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E4%BB%8A%E7%99%BE%E7%BE%8E%E5%9C%96%E4%B9%8B%E8%B2%82%E8%9F%AC%EF%BC%88One_hundred_beauties_Diaochan%EF%BC%89.png",
+  "width": 1813,
+  "height": 1481,
+  "license": "Public domain",
+  "artist": "Wu Youru(died c. 1893)",
+  "date": "19th centurydate QS:P,+1850-00-00T00:00:00Z/7",
+  "upscaled": false
+ },
+ "hero:huatuo": {
+  "file": "汉名医华佗.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%B1%89%E5%90%8D%E5%8C%BB%E5%8D%8E%E4%BD%97.jpg",
+  "width": 1166,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "Qing Dynasty",
+  "upscaled": false
+ },
+ "card:attack": {
+  "file": "Lu Bu at Hulao.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Lu_Bu_at_Hulao.png",
+  "width": 2345,
+  "height": 3480,
+  "license": "Public domain",
+  "artist": "The picture above is a print from a Qing Dynasty edition of Luo Guanzhongs Romance of the Three King",
+  "date": "1940",
+  "upscaled": false
+ },
+ "card:dodge": {
+  "file": "Tsuzoku sangokushi eiyu no ichinin 通俗三国志英雄上壹人 (Heroes of the Popular History of the Three Kingdoms) (BM 2008,3037.05404).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_sangokushi_eiyu_no_ichinin_%E9%80%9A%E4%BF%97%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E9%9B%84%E4%B8%8A%E5%A3%B9%E4%BA%BA_(Heroes_of_the_Popular_History_of_the_Three_Kingdoms)_(BM_2008,3037.05404).jpg",
+  "width": 1072,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "circa 1836date QS:P571,+1836-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "card:peach": {
+  "file": "RTK - 002.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_-_002.jpg",
+  "width": 2418,
+  "height": 1770,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2012-05-30",
+  "upscaled": false
+ },
+ "card:duel": {
+  "file": "Tsuzoku sangokushi eiyu no ichinin 通俗三国志英雄上壹人 (Heroes of the Popular History of the Three Kingdoms) (BM 2008,3037.05406).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_sangokushi_eiyu_no_ichinin_%E9%80%9A%E4%BF%97%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E9%9B%84%E4%B8%8A%E5%A3%B9%E4%BA%BA_(Heroes_of_the_Popular_History_of_the_Three_Kingdoms)_(BM_2008,3037.05406).jpg",
+  "width": 1101,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "circa 1836date QS:P571,+1836-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "card:dismantle": {
+  "file": "Tsuzoku Sangokushi no uchi- Guan Yu Gi no shichi-gun wo hitasau (BM 2008,3037.20013).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_Sangokushi_no_uchi-_Guan_Yu_Gi_no_shichi-gun_wo_hitasau_(BM_2008,3037.20013).jpg",
+  "width": 1118,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "1854 (8th month)",
+  "upscaled": false
+ },
+ "card:steal": {
+  "file": "Lü Bu - Dong Zhuo.png",
+  "page": "https://commons.wikimedia.org/wiki/File:L%C3%BC_Bu_-_Dong_Zhuo.png",
+  "width": 1818,
+  "height": 2400,
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "upscaled": false
+ },
+ "card:barbarians": {
+  "file": "RTK - 003.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_-_003.jpg",
+  "width": 2422,
+  "height": 1759,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2013-06-15 00:48:56",
+  "upscaled": false
+ },
+ "card:arrows": {
+  "file": "RTK - 004.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_-_004.jpg",
+  "width": 2422,
+  "height": 1759,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2013-06-15 00:49:55",
+  "upscaled": false
+ },
+ "card:peachgarden": {
+  "file": "RTK Chronicle - 001.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_Chronicle_-_001.jpg",
+  "width": 2000,
+  "height": 2532,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2012-05-24",
+  "upscaled": false
+ },
+ "card:drawtwo": {
+  "file": "Tsuzoku Sangokushi Eiyu no Ichinin (BM 1908,0718,0.92).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_Sangokushi_Eiyu_no_Ichinin_(BM_1908,0718,0.92).jpg",
+  "width": 1073,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "1797-1861 (artist)",
+  "upscaled": false
+ },
+ "card:negate": {
+  "file": "Zhang Fei on the Long Sloped Bridge Turning Away One Million Wei Troops with a Powerful Stare LACMA M.84.31.42a-c.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Zhang_Fei_on_the_Long_Sloped_Bridge_Turning_Away_One_Million_Wei_Troops_with_a_Powerful_Stare_LACMA_M.84.31.42a-c.jpg",
+  "width": 2100,
+  "height": 1050,
+  "license": "Public domain",
+  "artist": "Tsukioka Yoshitoshi (Japan, 1839-1892)",
+  "date": "circa 1883date QS:P571,+1883-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "card:indulgence": {
+  "file": "RTK Chronicle - 002.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_Chronicle_-_002.jpg",
+  "width": 2706,
+  "height": 3000,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2012-05-24",
+  "upscaled": false
+ },
+ "card:lightning": {
+  "file": "RTK - 005.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_-_005.jpg",
+  "width": 2407,
+  "height": 1757,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2013-06-15 00:52:05",
+  "upscaled": false
+ },
+ "card:crossbow": {
+  "file": "RTK - 006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_-_006.jpg",
+  "width": 2413,
+  "height": 1759,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2013-06-15 00:58:18",
+  "upscaled": false
+ },
+ "card:bluesteel": {
+  "file": "Kan U go-kan wo yaburu no zu 關羽五關を破圖 (BM 2008,3037.20006 2).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kan_U_go-kan_wo_yaburu_no_zu_%E9%97%9C%E7%BE%BD%E4%BA%94%E9%97%9C%E3%82%92%E7%A0%B4%E5%9C%96_(BM_2008,3037.20006_2).jpg",
+  "width": 1104,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "",
+  "date": "1853 (5th month)",
+  "upscaled": false
+ },
+ "card:greendragon": {
+  "file": "Guan Yu Seated (Chinese God of War), Hokusai, MET 56.121.6.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Guan_Yu_Seated_(Chinese_God_of_War),_Hokusai,_MET_56.121.6.jpg",
+  "width": 1472,
+  "height": 2000,
+  "license": "CC0",
+  "artist": "Katsushika Hokusai",
+  "date": "18th–19th century",
+  "upscaled": false
+ },
+ "card:serpentspear": {
+  "file": "Tsuzoku sangokushi eiyu no ichinin 通俗三国志英雄上壹人 (Heroes of the Popular History of the Three Kingdoms) (BM 2008,3037.05401).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_sangokushi_eiyu_no_ichinin_%E9%80%9A%E4%BF%97%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E9%9B%84%E4%B8%8A%E5%A3%B9%E4%BA%BA_(Heroes_of_the_Popular_History_of_the_Three_Kingdoms)_(BM_2008,3037.05401).jpg",
+  "width": 1101,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "circa 1836date QS:P571,+1836-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "card:rockaxe": {
+  "file": "RTK - 002.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_-_002.jpg",
+  "width": 2418,
+  "height": 1770,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2012-05-30",
+  "upscaled": false
+ },
+ "card:halberd": {
+  "file": "Lu Bu at Hulao.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Lu_Bu_at_Hulao.png",
+  "width": 2345,
+  "height": 3480,
+  "license": "Public domain",
+  "artist": "The picture above is a print from a Qing Dynasty edition of Luo Guanzhongs Romance of the Three King",
+  "date": "1940",
+  "upscaled": false
+ },
+ "card:kirinbow": {
+  "file": "RTK Chronicle - 002.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_Chronicle_-_002.jpg",
+  "width": 2706,
+  "height": 3000,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2012-05-24",
+  "upscaled": false
+ },
+ "card:eighttrigrams": {
+  "file": "Tsuzoku Sangokushi Eiyu no Ichinin (BM 1908,0718,0.92).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_Sangokushi_Eiyu_no_Ichinin_(BM_1908,0718,0.92).jpg",
+  "width": 1073,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "1797-1861 (artist)",
+  "upscaled": false
+ },
+ "card:renwang": {
+  "file": "RTK - 003.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_-_003.jpg",
+  "width": 2422,
+  "height": 1759,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2013-06-15 00:48:56",
+  "upscaled": false
+ },
+ "card:horseplus": {
+  "file": "Tsuzoku sangokushi eiyu no ichinin 通俗三国志英雄上壹人 (Heroes of the Popular History of the Three Kingdoms) (BM 2008,3037.05404).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tsuzoku_sangokushi_eiyu_no_ichinin_%E9%80%9A%E4%BF%97%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E9%9B%84%E4%B8%8A%E5%A3%B9%E4%BA%BA_(Heroes_of_the_Popular_History_of_the_Three_Kingdoms)_(BM_2008,3037.05404).jpg",
+  "width": 1072,
+  "height": 1600,
+  "license": "Public domain",
+  "artist": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+  "date": "circa 1836date QS:P571,+1836-00-00T00:00:00Z/9,P1480,Q572790",
+  "upscaled": false
+ },
+ "card:horseminus": {
+  "file": "RTK - 006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RTK_-_006.jpg",
+  "width": 2413,
+  "height": 1759,
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "2013-06-15 00:58:18",
+  "upscaled": false
+ }
+}

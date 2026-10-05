@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Spectral:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@plugin '@tailwindcss/typography';
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+  Palette: a jade lacquer table, rice-paper cards, cinnabar seal ink and
+  gilded edges. Kingdom colours follow the classic Shu/Wei/Wu/Neutral split.
+*/
+:root {
+  --jade-deep: 172 52% 10%;
+  --jade: 171 45% 17%;
+  --jade-soft: 168 30% 26%;
+  --rice: 41 49% 88%;
+  --rice-dim: 39 30% 72%;
+  --ink: 24 14% 13%;
+  --ink-soft: 26 9% 32%;
+  --cinnabar: 5 61% 43%;
+  --cinnabar-bright: 6 72% 52%;
+  --gold: 41 53% 54%;
+  --gold-soft: 41 40% 40%;
+  --suit-red: 5 65% 40%;
+
+  --shu: 9 59% 45%;
+  --wei: 218 45% 45%;
+  --wu: 104 40% 40%;
+  --qun: 35 8% 52%;
+
+  --background: var(--jade-deep);
+  --foreground: var(--rice);
+  --card: var(--jade);
+  --card-foreground: var(--rice);
+  --popover: 172 45% 13%;
+  --popover-foreground: var(--rice);
+  --primary: var(--cinnabar);
+  --primary-foreground: var(--rice);
+  --secondary: var(--jade-soft);
+  --secondary-foreground: var(--rice);
+  --muted: var(--jade);
+  --muted-foreground: var(--rice-dim);
+  --accent: var(--gold);
+  --accent-foreground: var(--ink);
+  --destructive: var(--cinnabar-bright);
+  --destructive-foreground: var(--rice);
+  --border: 168 25% 24%;
+  --input: 168 25% 24%;
+  --ring: var(--gold);
+  --chart-1: var(--cinnabar);
+  --chart-2: var(--gold);
+  --chart-3: var(--wei);
+  --chart-4: var(--wu);
+  --chart-5: var(--qun);
+  --radius: 0.5rem;
+  --sidebar: var(--jade-deep);
+  --sidebar-foreground: var(--rice);
+  --sidebar-primary: var(--cinnabar);
+  --sidebar-primary-foreground: var(--rice);
+  --sidebar-accent: var(--jade);
+  --sidebar-accent-foreground: var(--rice);
+  --sidebar-border: 168 25% 24%;
+  --sidebar-ring: var(--gold);
+}
+
+@theme inline {
+  --font-serif: 'Spectral', Georgia, serif;
+  --font-brush: 'Ma Shan Zheng', 'Kaiti SC', 'STKaiti', serif;
+
+  --color-jade-deep: hsl(var(--jade-deep));
+  --color-jade: hsl(var(--jade));
+  --color-jade-soft: hsl(var(--jade-soft));
+  --color-rice: hsl(var(--rice));
+  --color-rice-dim: hsl(var(--rice-dim));
+  --color-ink: hsl(var(--ink));
+  --color-ink-soft: hsl(var(--ink-soft));
+  --color-cinnabar: hsl(var(--cinnabar));
+  --color-cinnabar-bright: hsl(var(--cinnabar-bright));
+  --color-gold: hsl(var(--gold));
+  --color-gold-soft: hsl(var(--gold-soft));
+  --color-suit-red: hsl(var(--suit-red));
+  --color-shu: hsl(var(--shu));
+  --color-wei: hsl(var(--wei));
+  --color-wu: hsl(var(--wu));
+  --color-qun: hsl(var(--qun));
+
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-chart-1: hsl(var(--chart-1));
+  --color-chart-2: hsl(var(--chart-2));
+  --color-chart-3: hsl(var(--chart-3));
+  --color-chart-4: hsl(var(--chart-4));
+  --color-chart-5: hsl(var(--chart-5));
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: hsl(var(--sidebar));
+  --color-sidebar-foreground: hsl(var(--sidebar-foreground));
+  --color-sidebar-primary: hsl(var(--sidebar-primary));
+  --color-sidebar-primary-foreground: hsl(var(--sidebar-primary-foreground));
+  --color-sidebar-accent: hsl(var(--sidebar-accent));
+  --color-sidebar-accent-foreground: hsl(var(--sidebar-accent-foreground));
+  --color-sidebar-border: hsl(var(--sidebar-border));
+  --color-sidebar-ring: hsl(var(--sidebar-ring));
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-family: var(--font-serif);
+    font-size: 16px;
+    line-height: 1.55;
+  }
+  :focus-visible {
+    outline: 2px solid hsl(var(--gold));
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  /* The lacquered table surface: jade with a soft vignette and faint grain. */
+  .table-felt {
+    background-color: hsl(var(--jade-deep));
+    background-image:
+      radial-gradient(ellipse at 50% 40%, hsl(var(--jade) / 0.95), hsl(var(--jade-deep)) 70%),
+      repeating-linear-gradient(115deg, hsl(0 0% 100% / 0.012) 0 2px, transparent 2px 7px);
+  }
+  /* Rice paper for cards and panels. */
+  .paper {
+    background-color: hsl(var(--rice));
+    background-image:
+      radial-gradient(circle at 20% 15%, hsl(0 0% 100% / 0.35), transparent 40%),
+      repeating-linear-gradient(0deg, hsl(30 30% 40% / 0.03) 0 1px, transparent 1px 3px);
+    color: hsl(var(--ink));
+  }
+  .seal {
+    background: hsl(var(--cinnabar));
+    color: hsl(var(--rice));
+    font-family: var(--font-brush);
+    box-shadow: inset 0 0 0 1.5px hsl(var(--rice) / 0.55);
+  }
+  .gilt {
+    box-shadow:
+      0 0 0 1px hsl(var(--gold) / 0.9),
+      0 0 0 3px hsl(var(--jade-deep)),
+      0 0 0 4px hsl(var(--gold) / 0.35);
+  }
+}
+
+@keyframes turn-glow {
+  0%, 100% { box-shadow: 0 0 0 2px hsl(var(--gold)), 0 0 18px 2px hsl(var(--gold) / 0.35); }
+  50% { box-shadow: 0 0 0 2px hsl(var(--gold)), 0 0 30px 6px hsl(var(--gold) / 0.55); }
+}
+.turn-glow {
+  animation: turn-glow 2.4s ease-in-out infinite;
+}
+
+@keyframes card-land {
+  from { transform: translateY(-14px) scale(1.08) rotate(-3deg); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+.card-land {
+  animation: card-land 320ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@keyframes hit-flash {
+  0% { box-shadow: inset 0 0 0 0 hsl(var(--cinnabar-bright) / 0); }
+  30% { box-shadow: inset 0 0 0 999px hsl(var(--cinnabar-bright) / 0.45); }
+  100% { box-shadow: inset 0 0 0 0 hsl(var(--cinnabar-bright) / 0); }
+}
+.hit-flash {
+  animation: hit-flash 700ms ease-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .turn-glow,
+  .card-land,
+  .hit-flash {
+    animation: none;
+  }
+}
+
+/* Hide Vite badge and error messages */
+body vite-error-overlay {
+  display: none;
+}
